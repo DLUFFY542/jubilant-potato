@@ -1,2 +1,2 @@
 hlo welcome to git lab.
-rule 1:enter lab before 9:00
+rule 1:enter lab before 9:00 AM
